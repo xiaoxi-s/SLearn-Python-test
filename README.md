@@ -8,7 +8,7 @@ To run the test on your own computer, you need these pacakges/software:
 [pybind11](https://github.com/pybind/pybind11)\
 [Eigen3](http://eigen.tuxfamily.org/index.php?title=Main_Page)\
 [pytest](https://github.com/pytest-dev/pytest)\
-[SLearn](https://github.com/TheCommonOne/SLearn.git)\
+[SLearn](https://github.com/TheCommonOne/SLearn.git)
 
 ---
 
