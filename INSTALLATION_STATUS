@@ -1,0 +1,10 @@
+Name: slearn
+Version: 0.0.1
+Summary: A project using pybind11 and CMake
+Home-page: UNKNOWN
+Author: Xiaoxi Sun
+Author-email: xiaoxisun2000@gmail.com
+License: UNKNOWN
+Location: /usr/local/lib/python3.8/dist-packages/slearn-0.0.1-py3.8-linux-x86_64.egg
+Requires: 
+Required-by: 
