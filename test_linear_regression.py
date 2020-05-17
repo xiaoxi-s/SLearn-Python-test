@@ -1,4 +1,4 @@
-import slearn as sl
+import slearn.linear_model as sl
 import pytest as pt
 import numpy as np
 import pandas as pd
@@ -17,6 +17,7 @@ def test_normal_equation():
 
 
 def test_gradient_descent():
+
     """
     Test whether gradient descent and normal equation would give similar answers
     """
