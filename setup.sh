@@ -8,7 +8,7 @@ function update_slearn {
     # get current working directory
     current_directory=$(pwd)
     # go to the directory where the slearn source is
-    cd /media/adrian/Envir/workspace/vscode/SLearn/
+    cd /media/adrian/Envir/workspace/vscode/cpp/SLearn/
 
     # update
     sudo pip3 uninstall --yes slearn

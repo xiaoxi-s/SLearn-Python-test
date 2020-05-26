@@ -1,0 +1,5 @@
+
+LinearRegression Test:
+
+In accuracy test with dataset less than 10000, I used sklearn built in datasets obtained from load_boston().
+In accuracy test with dataset over 10000, I used data from Kaggle (https://www.kaggle.com/sohier/calcofi/data).
